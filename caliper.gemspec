@@ -7,7 +7,7 @@ Gem::Specification.new do |g|
 	g.version     = Caliper::VERSION
 	g.authors     = ["Matthew Hogan", "Prashant Nayak", "Zhen Qian", "Anthony Whyte"]
 	g.email       = ["lmattson@imsglobal.org"]
-	g.homepage    = "https://github.com/IMSGlobal/caliper-ruby"
+	g.homepage    = "https://github.com/IMSGlobal/caliper-ruby-public"
 	g.summary     = "Caliper Sensor API"
 	g.description = "Ruby implementation of the IMS Caliper Sensor."
 	g.license     = "LGPL-3.0"
